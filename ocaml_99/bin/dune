@@ -2,3 +2,23 @@
  (public_name ocaml_99)
  (name main)
  (libraries ocaml_99))
+
+(executable
+  (public_name num1)
+  (name num1)
+  (libraries base))
+
+(executable
+  (public_name num2)
+  (name num2)
+  (libraries base))
+
+(executable
+  (public_name num3)
+  (name num3)
+  (libraries base))
+
+(executable
+  (public_name num4)
+  (name num4)
+  (libraries base))
