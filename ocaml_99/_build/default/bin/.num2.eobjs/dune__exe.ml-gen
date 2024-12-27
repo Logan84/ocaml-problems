@@ -14,3 +14,6 @@ module Num3 = Dune__exe__Num3
 
 (** @canonical Dune__exe.Num4 *)
 module Num4 = Dune__exe__Num4
+
+(** @canonical Dune__exe.Num5 *)
+module Num5 = Dune__exe__Num5

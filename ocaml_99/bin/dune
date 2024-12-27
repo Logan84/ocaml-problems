@@ -22,3 +22,8 @@
   (public_name num4)
   (name num4)
   (libraries base))
+
+(executable
+  (public_name num5)
+  (name num5)
+  (libraries base))
