@@ -37,3 +37,13 @@
   (public_name num7)
   (name num7)
   (libraries base))
+
+(executable
+  (public_name num8)
+  (name num8)
+  (libraries base))
+
+(executable
+  (public_name num9)
+  (name num9)
+  (libraries base))

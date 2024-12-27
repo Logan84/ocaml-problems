@@ -4,5 +4,12 @@ lib: [
   "_build/install/default/lib/ocaml_99/opam"
 ]
 bin: [
+  "_build/install/default/bin/num1"
+  "_build/install/default/bin/num2"
+  "_build/install/default/bin/num3"
+  "_build/install/default/bin/num4"
+  "_build/install/default/bin/num5"
+  "_build/install/default/bin/num6"
+  "_build/install/default/bin/num7"
   "_build/install/default/bin/ocaml_99"
 ]

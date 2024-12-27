@@ -1,4 +1,6 @@
 (lang dune 3.17)
 (name ocaml_99)
 (sections (lib .) (bin ../../bin))
-(files (lib (META dune-package opam)) (bin (ocaml_99)))
+(files
+ (lib (META dune-package opam))
+ (bin (num1 num2 num3 num4 num5 num6 num7 ocaml_99)))
